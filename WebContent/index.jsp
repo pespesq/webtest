@@ -15,8 +15,8 @@
 			<li>나</li>
 			<li>다</li>
 			<li>라</li>
-			<li>바</li>
-			<li>마</li>
+			<li>a</li>
+			<li>b</li>
 		</ul>
 	</div>
 </body>
